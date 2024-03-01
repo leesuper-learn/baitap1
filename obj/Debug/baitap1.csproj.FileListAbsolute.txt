@@ -1,0 +1,7 @@
+E:\C#\online\W03\caulenhlap\baitap1\baitap1\bin\Debug\baitap1.exe.config
+E:\C#\online\W03\caulenhlap\baitap1\baitap1\bin\Debug\baitap1.exe
+E:\C#\online\W03\caulenhlap\baitap1\baitap1\bin\Debug\baitap1.pdb
+E:\C#\online\W03\caulenhlap\baitap1\baitap1\obj\Debug\baitap1.csproj.AssemblyReference.cache
+E:\C#\online\W03\caulenhlap\baitap1\baitap1\obj\Debug\baitap1.csproj.CoreCompileInputs.cache
+E:\C#\online\W03\caulenhlap\baitap1\baitap1\obj\Debug\baitap1.exe
+E:\C#\online\W03\caulenhlap\baitap1\baitap1\obj\Debug\baitap1.pdb
